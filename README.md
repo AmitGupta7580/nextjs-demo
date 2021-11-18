@@ -1,8 +1,8 @@
 # Demo Next-js Blog Website
 
-Live website: <a href="https://nextjs-demo-two-mu.vercel.app/" target="_blank">link</a>
+Live website: <a href="https://nextjs-demo.ammmy.me/" target="_blank">https://nextjs-demo.ammmy.me</a>
 
-<br><br>
+<br>
 
 ## Automated generated README
 
